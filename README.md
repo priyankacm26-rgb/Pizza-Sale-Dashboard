@@ -13,15 +13,13 @@ The objective of this project is to analyze one year of pizza sales data to iden
 This Power BI dashboard provides interactive insights that help the business understand:
 
 Total revenue, total orders, and total pizzas sold
-
 Average order value and average pizzas per order
-
 Daily and monthly sales trends
-
 Best-performing pizza categories and sizes
-
 Busiest days/time periods with highest demand
-
 Contribution of each pizza type toward overall sales
 
 The dashboard enables stakeholders to make data-driven decisions related to menu planning, operational efficiency, marketing strategies, and customer demand forecasting.
+
+## Dashboard
+- <a href="https://github.com/priyankacm26-rgb/Pizza-Sale-Dashboard/blob/main/Screenshot%202025-10-22%20143138.pdfhttps://github.com/priyankacm26-rgb/Pizza-Sale-">Dashboard
