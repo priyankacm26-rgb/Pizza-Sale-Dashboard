@@ -1,25 +1,101 @@
-# Pizza-Sale-Dashboard
-This project presents an interactive Power BI dashboard built using a Pizza Sales dataset (Jan 2015 – Dec 2015). The dashboard provides a comprehensive analysis of sales performance, customer buying patterns, and category-wise insights to help understand business trends and improve decision-making.
-Project Title
-Pizza Sales Analysis Dashboard (Power BI)
-Time Period: January 2015 – December 2015
+# 🍕 Pizza Sales Analysis Dashboard
 
-## Dataset Used: 
--  <a href="https://github.com/priyankacm26-rgb/Pizza-Sale-Dashboard/blob/main/pizza_sales.csv.xlsx">Dataset
+## 📌 Project Overview
 
-## Project Objective
+Developed an interactive Power BI dashboard to analyze one year of pizza sales data (January 2015 – December 2015). The dashboard provides insights into sales performance, customer purchasing behavior, product popularity, and revenue trends, enabling data-driven business decisions.
 
-The objective of this project is to analyze one year of pizza sales data to identify key business trends, customer ordering behavior, and sales performance across categories, sizes, and time periods.
-This Power BI dashboard provides interactive insights that help the business understand:
+---
 
-Total revenue, total orders, and total pizzas sold
-Average order value and average pizzas per order
-Daily and monthly sales trends
-Best-performing pizza categories and sizes
-Busiest days/time periods with highest demand
-Contribution of each pizza type toward overall sales
+## 🎯 Project Objective
 
-The dashboard enables stakeholders to make data-driven decisions related to menu planning, operational efficiency, marketing strategies, and customer demand forecasting.
+The objective of this project was to transform raw sales data into actionable business insights by analyzing:
 
-## Dashboard
-- <a href="https://github.com/priyankacm26-rgb/Pizza-Sale-Dashboard/blob/main/Screenshot%202025-10-22%20143138.pdfhttps://github.com/priyankacm26-rgb/Pizza-Sale-">Dashboard
+* Revenue performance
+* Customer ordering patterns
+* Product demand
+* Category and size contribution
+* Daily and monthly sales trends
+* Peak business periods
+
+The dashboard helps stakeholders optimize inventory planning, marketing campaigns, menu strategies, and operational efficiency.
+
+---
+
+## 📂 Dataset
+
+🔗 Dataset:
+https://github.com/priyankacm26-rgb/Pizza-Sale-Dashboard/blob/main/pizza_sales.csv.xlsx
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+* Total Revenue
+* Total Orders
+* Total Pizzas Sold
+* Average Order Value
+* Average Pizzas per Order
+
+---
+
+## 🔍 Business Questions Answered
+
+### Sales Performance
+
+* What is the total revenue generated?
+* How many orders were placed?
+* What is the average order value?
+
+### Customer Behavior
+
+* What are the busiest days of the week?
+* Which months generate the highest sales?
+* When is customer demand at its peak?
+
+### Product Performance
+
+* Which pizza categories generate the most revenue?
+* Which pizza sizes are most popular?
+* Which pizzas contribute most to overall sales?
+
+---
+
+## 📈 Dashboard Insights
+
+* Identified peak sales periods and high-demand days.
+* Analyzed monthly revenue trends throughout the year.
+* Determined best-selling pizza categories and sizes.
+* Evaluated product contribution to total sales.
+* Uncovered customer ordering patterns for business optimization.
+
+---
+
+## 🛠 Tools & Technologies
+
+* Power BI
+* Excel
+* DAX
+* Data Modeling
+* Data Visualization
+
+---
+
+## 🚀 Business Impact
+
+* Improved visibility into sales performance.
+* Supported menu optimization decisions.
+* Enabled better inventory planning.
+* Assisted in forecasting customer demand.
+* Helped identify high-performing products and revenue drivers.
+
+---
+
+## 📷 Dashboard Preview
+
+Add dashboard screenshots here for better project presentation.
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates practical business intelligence and dashboard development skills using Power BI. It highlights the ability to convert raw transactional data into meaningful insights that support strategic business decisions.
